@@ -18,5 +18,7 @@ public class factorial
         for(i=1;i<=n;i++)
             f=f*i;
         System.out.println("El factorial es : "+f);
+        
+        System.out.println("Joan Riera Serra");
     }
 }
