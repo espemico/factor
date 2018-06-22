@@ -19,6 +19,6 @@ public class factorial
             f=f*i;
         System.out.println("El factorial es : "+f);
         
-        System.out.println("Joan Riera Serra");
+        System.out.println("Jose Portatil");
     }
 }
