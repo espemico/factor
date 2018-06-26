@@ -19,6 +19,6 @@ public class factorial
             f=f*i;
         System.out.println("El factorial es : "+f);
         
-        System.out.println("Jose netbeans");
+        System.out.println("yourname TEST");
     }
 }
